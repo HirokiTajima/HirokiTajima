@@ -1,0 +1,28 @@
+# Hi there 👋
+
+BBB&Company 代表取締役 / World ID Orb エコシステム事業開発
+
+## 🚀 What I'm working on
+- World ID Orb 認証ロケーションの展開（日本国内150箇所以上）
+- Humanary プロジェクト（World ID認証クリエイターリスト）
+- MiniApp / Web3 開発
+
+## 🛠️ Tech Stack
+- **Frontend**: Next.js, React, TypeScript
+- **Backend**: Supabase, Vercel
+- **Blockchain**: Solidity, World ID SDK
+
+---
+
+## 📊 GitHub Stats
+
+![HirokiTajima's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HirokiTajima&show_icons=true&theme=tokyonight&count_private=true&hide_border=true)
+
+## 💻 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HirokiTajima&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+## 📫 Connect
+- 🌐 BBB&Company
