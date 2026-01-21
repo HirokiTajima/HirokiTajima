@@ -14,13 +14,9 @@ BBB&Company 代表取締役 / World ID Orb エコシステム事業開発
 
 ---
 
-## 📊 GitHub Stats
+## 🔥 Contribution Streak
 
-![HirokiTajima's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HirokiTajima&show_icons=true&theme=tokyonight&count_private=true&hide_border=true)
-
-## 💻 Most Used Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HirokiTajima&layout=compact&theme=tokyonight&hide_border=true)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HirokiTajima&theme=tokyonight&hide_border=true)](https://github.com/HirokiTajima)
 
 ---
 
